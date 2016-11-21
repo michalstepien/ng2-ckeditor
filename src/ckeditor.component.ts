@@ -13,6 +13,7 @@ import {
 } from '@angular/core';
 import { NG_VALUE_ACCESSOR } from '@angular/forms';
 
+declare var CKEDITOR: any;
 /**
  * CKEditor component
  * Usage :
